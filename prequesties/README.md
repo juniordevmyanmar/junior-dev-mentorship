@@ -2,7 +2,7 @@
 
 Welcome from Junior Dev, the followings are the list of prequesties that need to be prepare before you join the cohort.
 
-## Softwares
+## Softwares to be installed
 - [Slack](https://slack.com/downloads) (for all communications between mentors and mentees and daily standup)
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - IDEs and simulators if you needed
