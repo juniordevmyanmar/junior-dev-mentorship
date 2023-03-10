@@ -36,5 +36,5 @@ Welcome from Junior Dev, the followings are the list of prequesties that need to
 
 ## After Installing Gitlab CLI
 - Please fork & this repo and create branch name `jdmm-yourname-yourtrack(backend,frontend-web ios,android,flutter,cloudengineer)`
-- Create PR with README.md including your name 
+- Create PR at `/git-check/README.md` including your name 
 
