@@ -1,2 +1,1 @@
-# junior-dev-mentorship
-Updates & annuncement
+tzpk
